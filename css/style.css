@@ -20,8 +20,8 @@
 }
 .top-navigation > .content {
     width: 970px;
-    height: 70px
     margin: 0 auto;
+    height: 70px;
 }
 .top-navigation {
     background-color: #fff;
@@ -30,3 +30,50 @@
     border-bottom: 1px solid #DDD;
     z-index: 9999;
 }
+.introduction {
+    background-image: url('../images/first-background.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+}
+.content {
+    width: 60rem;
+    padding: 0 0.938rem;
+    margin: 0 auto;
+    min-width: 37.5rem;
+    box-sizing:   ;
+    border-box:   ; 
+}
+button {
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    display: margin-top;
+    width: 9.688rem;
+    font-size: 1.125rem;
+    color: #FFF;
+    background-color: #F15B2A;
+    display: block;
+    margin: 0 auto; 
+    margin-bottom: 80px
+    margin-top: 80px;
+}
+.introduction h1,
+.introduction h3 {
+    color: white;
+    text-align: center;
+    font-weight: 300;
+}
+.introduction h1 {
+    margin-top: 3.155rem;
+    font-size: 3.125rem;
+}
+.introduction h3 {
+    margin-top: 1.25rem;
+    font-size: 1.563rem;
+}
+
+
+   
